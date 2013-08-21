@@ -1,3 +1,5 @@
+;;;Showed shyam how to do github
+
 ;;;Creating the initial board
 
 (define (list-of-n-zeroes n)
